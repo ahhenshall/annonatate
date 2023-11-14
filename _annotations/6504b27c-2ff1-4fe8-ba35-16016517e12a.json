@@ -1,0 +1,37 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-11819-00007/canvas/11"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "yfuyfjjfyf",
+            "purpose": "commenting",
+            "creator": {
+                "id": "ahhenshall",
+                "name": "ahhenshall"
+            },
+            "created": "2023-11-14T11:41:09.134Z",
+            "modified": "2023-11-14T11:41:09.796Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-11819-00007",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-11819-00007/canvas/11",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"3510.87841796875,512.5912475585938 5638.77783203125,951.9550170898438 5513.8603515625,930.4174194335938 6142.75341796875,-43.07501220703125 4385.29833984375,-249.83444213867188 4411.14306640625,-30.15254783630371\"></polygon></svg>"
+        }
+    },
+    "id": "6504b27c-2ff1-4fe8-ba35-16016517e12a.json",
+    "motivation": "commenting"
+}
